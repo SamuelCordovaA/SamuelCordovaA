@@ -4,9 +4,6 @@
 ### Hola compañeros👋
 
 - 👨‍🏫 Consultor TI - TELVISTA.
-- 🔭 En bachillerato con informática.
-- 🖥 Estudiante de los ultimos semestre de ISC.
-- ⚡ Galgo.
 - 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
 
 ## Horario Laboral
