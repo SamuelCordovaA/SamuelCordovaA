@@ -10,12 +10,12 @@
 
 | Horario 	|Lunes                        |Martes                       |Miercoles                    |Jueves                       |Viernes                      |
 |----------	|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
-|8:00-11:00 |Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|
-|11:00-12:00|Perfilamiento cliente MultiIn|Perfilamiento cliente MultiIn|Perfilamiento cliente MultiIn|Perfilamiento cliente MultiIn|Perfilamiento cliente MultiIn|
-|12:00-2:00 |Administrativos              |Administrativos              |Administrativos              |Administrativos              |Administrativos              | 
+|8:30-11:30 |Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|
+|11:30-12:30|Perfilamiento cliente MultiIn|Perfilamiento cliente MultiIn|Perfilamiento cliente MultiIn|Perfilamiento cliente MultiIn|Perfilamiento cliente MultiIn|
+|12:30-2:00 |Administrativos              |Administrativos              |Administrativos              |Administrativos              |Administrativos              | 
 |2:00-4:00  |Comida                       |Comida                       |Comida                       |Comida                       |Comida                       |
 |4:00-5:00  |Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|
-|5:00-6:00  |Administrativos              |Administrativos              |Administrativos              |Administrativos              |Administrativos              |
+|5:00-6:30  |Administrativos              |Administrativos              |Administrativos              |Administrativos              |Administrativos              |
 
 
 <!--
